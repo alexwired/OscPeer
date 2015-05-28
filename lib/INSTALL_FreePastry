@@ -1,0 +1,3 @@
+### install FreePastry in the local Maven repository
+mvn install:install-file -Dfile=FreePastry-2.1.jar -DgroupId=com.p2p -DartifactId=FreePastry -Dversion=2.1 -Dpackaging=jar
+
