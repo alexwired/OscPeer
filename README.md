@@ -1,2 +1,2 @@
 # OscPeer
-OSC through p2p2
+OSC through p2p
